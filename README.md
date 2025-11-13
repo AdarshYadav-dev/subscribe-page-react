@@ -1,4 +1,4 @@
-# 🌐 Subscribe Page (React + Vite + Tailwind CSS)
+#  Subscribe Page (React with Tailwind CSS)
 
 A **modern, fully responsive landing page** built using **React**, **Vite**, and **Tailwind CSS**.  
 This project was designed for **Magebyte**, featuring a clean subscription section and professional footer with contact details and social links.
